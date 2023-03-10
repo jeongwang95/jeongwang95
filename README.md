@@ -1,4 +1,4 @@
-### Hi there 👋
+### Well Hello there, I'm Jeong Wang!
 
 <!--
 **jeongwang95/jeongwang95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Currently working on [lftovrs_frontend](https://github.com/jeongwang95/lftovrs_frontend).<br />
+Creator of lftovrs: a food recipe web application. ([frontend](https://github.com/jeongwang95/lftovrs_frontend), [backend](https://github.com/jeongwang95/lftovrs)).<br />
+I am currently learning Redux Toolkit and JavaScript Promise.<br />
+My favorite language is python. My favorite Framework and Library are Flask and React.<br />
+In my free time, I enjoy staying active through rock climbing and golfing, and I am always on the lookout for new restaurants to try.<br />
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jeongwang/). I am open to new opportunities!<br />
