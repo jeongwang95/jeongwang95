@@ -1,4 +1,4 @@
-### Well Hello there, I'm Jeong Wang!
+![](banner.png)
 
 <!--
 **jeongwang95/jeongwang95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
