@@ -23,7 +23,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jeongwang/). I am open
 #### I am:
 * Currently working on [lftovrs_frontend](https://github.com/jeongwang95/lftovrs_frontend).<br />
 * The creator of lftovrs: a food recipe web application. ([frontend](https://github.com/jeongwang95/lftovrs_frontend), [backend](https://github.com/jeongwang95/lftovrs)).<br />
-* Currently learning Redux Toolkit and JavaScript Promise.<br />
+* Currently learning algorithms through working on neetcode 150.<br />
 
 #### Programming Langauges:
 
