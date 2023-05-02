@@ -21,7 +21,7 @@ In my free time, I enjoy staying active through rock climbing and golfing, and I
 Connect with me on [LinkedIn](https://www.linkedin.com/in/jeongwang/). I am open to new opportunities!<br />
 
 #### I am:
-* Currently working on [lftovrs_frontend](https://github.com/jeongwang95/lftovrs_frontend).<br />
+* Currently working on [Quizly](https://github.com/jeongwang95/quizly).<br />
 * The creator of lftovrs: a food recipe web application. ([frontend](https://github.com/jeongwang95/lftovrs_frontend), [backend](https://github.com/jeongwang95/lftovrs)).<br />
 * Currently learning algorithms through working on neetcode 150.<br />
 
