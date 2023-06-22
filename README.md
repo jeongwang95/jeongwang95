@@ -21,9 +21,9 @@ In my free time, I enjoy staying active through rock climbing and golfing, and I
 Connect with me on [LinkedIn](https://www.linkedin.com/in/jeongwang/). I am open to new opportunities!<br />
 
 #### I am:
-* Currently working on [Quizly](https://github.com/jeongwang95/quizly).<br />
-* The creator of lftovrs: a food recipe web application. ([frontend](https://github.com/jeongwang95/lftovrs_frontend), [backend](https://github.com/jeongwang95/lftovrs)).<br />
-* Currently learning algorithms through working on neetcode 150.<br />
+* Currently working on [BudgetApp](https://github.com/jeongwang95/BudgetApp).<br />
+* The creator of [lftovrs](https://lftovrs-4ee17.web.app/): a food recipe web application. Github links: ([frontend](https://github.com/jeongwang95/lftovrs_frontend), [backend](https://github.com/jeongwang95/lftovrs)).<br />
+* The creator of [ACNH My Villagers](https://strengthened-silver-caper.glitch.me/signin?next=%2F): a food recipe web application. [Github link](https://github.com/jeongwang95/acnh_my_villagers).<br />
 
 #### Programming Langauges:
 
